@@ -7,6 +7,9 @@
     <a href="https://github.com/OliverSieweke/gapminder/graphs/traffic">
       <img alt="Downloads" src="https://img.shields.io/github/downloads/OliverSieweke/gapminder/total"/>
     </a>
+    <a href="https://mybinder.org/v2/gh/OliverSieweke/gapminder/master?filepath=notebooks%2Fexploration.ipynb">
+        <img alt="Binder" src="https://mybinder.org/badge_logo.svg" />
+    </a>
 </p>
 
 <h1 align="center">
