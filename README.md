@@ -12,16 +12,20 @@
     </a>
 </p>
 
+
 <h1 align="center">
     gapminder
 </h1>
 
-Welcome to gapminder!
-
+Welcome to gapminder! This project attempts to reproduce the results and to offer alternative visualizations.
 
 - [User Guide](#user-guide)
 - [Data](#data)
 - [Developer Guide](#developer-guide)
+
+<p align="center">
+    <img alt="Gapminder Animation", src="./gifs/gapminder.gif">
+</p>
 
 ---
 
@@ -29,11 +33,13 @@ Welcome to gapminder!
 
 ### Viewing the Project
 
+You can view the explorations that led to the main animation for this project on [MyBinder](https://mybinder.org/) by clicking the badge below (this may take some time in case no conta a container is currently deployed).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OliverSieweke/gapminder/master?filepath=notebooks%2Fexploration.ipynb)
 
 ### Running the Project
 
-#### Locally
+#### 
 
 If you have [Python 3](https://www.python.org/downloads/) and [Jupyter](https://jupyter.org/install) installed, you may run the project on your local machine by executing the following commands from your terminal:
 
@@ -56,11 +62,10 @@ The data used for this project was downloaded from [gapminder.org](https://www.g
 
 - [Babies per woman (total fertility rate)](https://www.gapminder.org/data/documentation/gd008/)
 
-  
-
 ------
 
 <!--suppress HtmlDeprecatedAttribute | JetBrains Inspection -->
+
 <p align="center">
     <a>
       <img alt="Python 3.7" src="https://img.shields.io/badge/python-3.7-blue.svg"/>
