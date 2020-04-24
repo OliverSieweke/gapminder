@@ -1,4 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute | JetBrains Inspection -->
+
 <p align="center">
     <a href="https://choosealicense.com/licenses/mit">
       <img alt="License: MIT" src="https://img.shields.io/github/license/OliverSieweke/gapminder"/>
@@ -16,6 +17,7 @@ Welcome to gapminder!
 
 
 - [User Guide](#user-guide)
+- [Data](#data)
 - [Developer Guide](#developer-guide)
 
 ---
@@ -38,6 +40,20 @@ $ cd gapminder
 $ pip install -r requirements.txt
 $ jupyter notebook notebooks
 ```
+
+---
+
+## Data
+
+The data used for this project was downloaded from [gapminder.org](https://www.gapminder.org/data/) on the 23.04.2020, it makes use of:
+
+- [Total Population](https://www.gapminder.org/data/documentation/gd003/)
+
+- [Life expectancy at birth](https://www.gapminder.org/data/documentation/gd004/)
+
+- [Babies per woman (total fertility rate)](https://www.gapminder.org/data/documentation/gd008/)
+
+  
 
 ------
 
