@@ -4,8 +4,8 @@
     <a href="https://choosealicense.com/licenses/mit">
       <img alt="License: MIT" src="https://img.shields.io/github/license/OliverSieweke/gapminder"/>
     </a>
-    <a href="https://github.com/OliverSieweke/gapminder/graphs/traffic">
-      <img alt="Downloads" src="https://img.shields.io/github/downloads/OliverSieweke/gapminder/total"/>
+    <a href="https://github.com/OliverSieweke/gapminder/releases">
+        <img alt="Version" src="https://img.shields.io/github/v/tag/OliverSieweke/gapminder"/>
     </a>
     <a href="https://mybinder.org/v2/gh/OliverSieweke/gapminder/master?filepath=notebooks%2Fexploration.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg" />
@@ -70,9 +70,6 @@ The data used for this project was downloaded from [gapminder.org](https://www.g
     </a>
     <a href="https://dependabot.com/">
         <img alt="Dependabot" src="https://badgen.net/dependabot/OliverSieweke/gapminder/?icon=dependabot"/>
-    </a>
-    <a href="https://github.com/OliverSieweke/gapminder/releases">
-        <img alt="Version" src="https://img.shields.io/github/v/tag/OliverSieweke/gapminder"/>
     </a>
 </p>
 
